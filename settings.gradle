@@ -1,0 +1,2 @@
+include ':atelierul_digitalgood'
+rootProject.name='MyHelloWorld'
